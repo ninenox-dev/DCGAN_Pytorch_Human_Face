@@ -2,4 +2,5 @@
 
 ![](https://github.com/ninenox-dev/DCGAN_Pytorch_Human_Face/blob/main/trainning.gif)
 
-https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+tutorial : https://pytorch.org/tutorials/beginner/dcgan_faces_tutorial.html
+dataset : https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
